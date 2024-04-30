@@ -1,0 +1,12 @@
+.clock-container {
+    display: flex;
+    justify-content: center;
+
+    h1 {
+        font-size: 3rem;
+        color: #333;
+        font-weight: bold;
+        font-family: monospaces;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+}
